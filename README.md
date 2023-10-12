@@ -1,16 +1,30 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**harshvivek14/harshvivek14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/harshvivek-kashid">Harshvivek</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 📖 About me
+* 🎓 Pursuing M.Tech in CSE from IIT Bombay
+* 🖥️ Former SDE-1 @Amazon
+* 👨‍💻 AIR 57 GATE CS 2022
+* ⌨️ I'm a competitive programmer, full stack web dev and Machine Learning Enthusiast
+
+<br>
+## 🙋‍♂️ Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshvivek-kashid"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.github.com/harshvivek14"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<br>
+
+## 📈 Github Stats
+
+<p align="left">
+  <a href="#"><img alt="itzhv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshvivek14&theme=tokyonight&show_icons=true" /></a> 
+  <a href="#"><img alt="itzhv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvivek14&langs_count=10&layout=compact#" /></a>
+</p>
+<br>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/harshvivek14?tab=repositories">my repos</a>! Feedback is appreciated</h3>
