@@ -11,25 +11,26 @@
 * 👨‍💻 AIR 57 GATE CS 2022
 * ⌨️ I'm a competitive programmer, full stack web dev and Machine Learning Enthusiast
 
-<br>
+</br>
 ## 🙋‍♂️ Connect with me:
-<br>
+
+</br>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/harshvivek-kashid"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://www.github.com/harshvivek14"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<br>
+
 
 ## 📈 Github Stats
 
-<p align="center">
+<p align="">
   <a href="#"><img alt="itzhv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshvivek14&theme=tokyonight&show_icons=true" /></a> 
-  </p>
-<p align="center> 
-  <a href="#"><img alt="itzhv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvivek14&langs_count=10&layout=compact#" /></a>
+
+  <a href="#"><img alt="itzhv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvivek14&langs_count=10" /></a>
 </p>
 
 <br>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/harshvivek14?tab=repositories">my repos</a>! Feedback is appreciated</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/harshvivek14?tab=repositories">my repos</a>. Feedback is appreciated!</h3>
