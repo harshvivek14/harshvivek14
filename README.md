@@ -6,20 +6,19 @@
 <br>
 
 ## 📖 About me
-* 🎓 Pursuing M.Tech in CSE from IIT Bombay
+* 🎓 Pursuing M.Tech in CSE from IIT Bombay (2025)
 * 🖥️ Former SDE-1 @Amazon
 * 👨‍💻 AIR 57 GATE CS 2022
 * ⌨️ I'm a competitive programmer, full stack web dev and Machine Learning Enthusiast
 
 </br>
+
 ## 🙋‍♂️ Connect with me:
 
 </br>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshvivek-kashid"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-  <a href="https://www.github.com/harshvivek14"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshvivek-kashid"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <a href="https://www.github.com/harshvivek14"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 
