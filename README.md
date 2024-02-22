@@ -10,6 +10,8 @@
 * 🖥️ Former SDE-1 @Amazon
 * 👨‍💻 AIR 57 GATE CS 2022
 * ⌨️ I'm a competitive programmer, full stack web dev and Machine Learning Enthusiast
+* 📝 My Blogs on ML and NLP: https://medium.com/@harshvivek14
+  
 
 </br>
 
