@@ -31,9 +31,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-## GitHub stats
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshvivek14&show_icons=true&theme=tokyonight" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvivek14&langs_count=8&layout=compact" />
-</p>
